@@ -1,9 +1,10 @@
 # ParcelTemplate
+
 This is a basic starter workflow for building vanilla JavaScript applications using Parcel along with Babel and Sass.
 
 There is some sample code (Header and User components) and styling, but feel free to remove them.
 
-# Usage
+## Usage
 
 Install dependencies
 
